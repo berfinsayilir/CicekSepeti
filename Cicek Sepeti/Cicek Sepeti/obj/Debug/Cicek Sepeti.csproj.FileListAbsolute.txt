@@ -1,0 +1,31 @@
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\bin\Debug\Cicek Sepeti.exe.config
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\bin\Debug\Cicek Sepeti.exe
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\bin\Debug\Cicek Sepeti.pdb
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.csprojAssemblyReference.cache
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Form1.resources
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Properties.Resources.resources
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.csproj.GenerateResource.cache
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.exe
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.pdb
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Giris.resources
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Kaydol.resources
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.SiparisTakibi.resources
+C:\Users\Ramazan HARMANER\source\repos\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Sepet.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\bin\Debug\Cicek Sepeti.exe.config
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\bin\Debug\Cicek Sepeti.exe
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\bin\Debug\Cicek Sepeti.pdb
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.csprojAssemblyReference.cache
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Form1.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Giris.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Kaydol.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Properties.Resources.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Sepet.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.SiparisTakibi.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.csproj.GenerateResource.cache
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.csproj.CoreCompileInputs.cache
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.exe
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek Sepeti.pdb
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.PasswordReset.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.InsertAndUpdate.resources
+C:\Users\trk_s\Desktop\Cicek_Sepeti\Cicek Sepeti\Cicek Sepeti\obj\Debug\Cicek_Sepeti.Users.resources
